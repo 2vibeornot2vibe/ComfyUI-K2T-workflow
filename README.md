@@ -23,7 +23,7 @@ git clone https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance
 [ModelScope](https://modelscope.cn/models/Comfy-Org/Krea-2/files)
 
 **2. Download one of each and save them into the corresponding folders inside ComfyUI's `models` directory:**
-*   **diffusion_models** (krea2_turbo_bf16.safetensors / krea2_raw_fp8_scaled.safetensors)
+*   **diffusion_models** (krea2_turbo_bf16.safetensors / krea2_turbo_fp8_scaled.safetensors)
 *   **text_encoders** (qwen3vl_4b_bf16.safetensors / qwen3vl_4b_fp8_scaled.safetensors)
 *   **vae** (qwen_image_vae.safetensors)
 *   **loras (optional)**
