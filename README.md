@@ -32,6 +32,8 @@ If you have enough combined memory **(RAM+VRAM > 32GB)**, get BF16 for better qu
 
 ## Use
 
+Download the `Krea 2 Turbo.json` file and drag it onto ComfyUI's, well, UI D:
+
 Select your downloaded models in the `Load Models` node.
 
 Un-bypass the `Load LoRA` node and select your downloaded LoRA if you have any.
