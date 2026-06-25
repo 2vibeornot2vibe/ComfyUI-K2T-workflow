@@ -42,4 +42,4 @@ Enter your prompt and generate!
 
 ## License
 
-**NOPE :D**
+**DO WHATEVER YOU WANT WITH IT :D**
